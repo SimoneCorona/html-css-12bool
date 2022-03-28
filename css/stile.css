@@ -1,3 +1,9 @@
+/* common */
+.padd{
+    padding: 10px;
+}
+
+/* body */
 h1{
     font-size: 25px;
 }
@@ -11,4 +17,15 @@ h1{
     background-color: rgb(36, 36, 255);
     text-align: center;
     line-height: 50px;
+}
+.mg-bt{
+    margin-bottom: 40px;
+}
+.box-2{
+    margin: auto 0;
+    height: 100%;
+    border: 2px solid rgb(36, 36, 255);
+    text-align: center;
+    line-height: px;
+    background-color: rgb(80, 219, 0);
 }
